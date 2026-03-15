@@ -1,8 +1,8 @@
-# Gesture Tracking Robotic Arm
+# Gesture Controlled Robotic Arm
 
 
 
-This repository details on the code and hardware on how to code a gesture tracking robotic arm glove using flex sensors and a 4 DOF robotic arm.
+This repository details on the code and hardware on how to code a gesture controlled robotic arm glove using flex sensors and a 4 DOF robotic arm.
 
 
 
@@ -24,3 +24,4 @@ This repository details on the code and hardware on how to code a gesture tracki
 * In the same row put one end of a 10k Ohm resistor and the other end into the ground rail of the breadboard.
 * Repeat the above steps but with A1 and A2.
 * Connect the breadboard to the 5V and Ground of the Arduino.
+
